@@ -1,0 +1,25 @@
+body {
+    background-image: url(hem.jpg); /* light gray */
+    background-size: cover;
+}
+.jumbotron {
+    background-color: rgb(245, 245, 204 , 0.6);
+  }
+.container {
+  background-color:rgb(245, 245, 220 , 0.6); /* white */
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.card {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color:lightblue; /* white */
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
